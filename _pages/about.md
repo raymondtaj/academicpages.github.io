@@ -24,7 +24,7 @@ Let’s connect and explore how data can drive smarter decisions!
 
 📫 Email: [wmaraymond@outlook.com](mailto:wmaraymond@outlook.com)  
 📎 LinkedIn: [Linkedin.com/in/raymond-taosijian](https://www.linkedin.com/in/raymond-taosijian/)  
-<br>
-📄 Resume: [Download My Resume](/files/Raymond_Tao_Resume.pdf)
+📄 Resume: [Download My Resume](https://raymondtaj.github.io/academicpages.github.io/files/Raymond_Tao_Resume.pdf)
+
 
 
