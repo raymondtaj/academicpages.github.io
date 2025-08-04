@@ -20,22 +20,10 @@ At Cornell, I’m leading a **capstone project for Wegmans**, using XGBoost and 
 Let’s connect and explore how data can drive smarter decisions!
 
 ---
+### 📫 Contact Me
 
 📫 Email: [wmaraymond@outlook.com](mailto:wmaraymond@outlook.com)  
 🔗 LinkedIn: [linkedin.com/in/raymond-taosijian](https://www.linkedin.com/in/raymond-taosijian/)
-
----
-
-### 📫 Contact Me
-
-<a href="mailto:wmaraymond@outlook.com">
-  <img src="/images/email-icon.png" alt="Email" width="30" style="margin-right: 15px;">
-</a>
-
-<a href="https://www.linkedin.com/in/raymond-taosijian/" target="_blank">
-  <img src="/images/linkedin-icon.png" alt="LinkedIn" width="30">
-</a>
-
 
 ---
 
