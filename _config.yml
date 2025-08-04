@@ -15,17 +15,9 @@ author:
   bio: "M.Eng candidate in ORIE @ Cornell | B.S. in Math & Stats @ Michigan"
   location: "Ithaca, NY"
   employer: "Cornell University"
-  email: "your@email.com"
-  googlescholar: "https://scholar.google.com/"
-  orcid: "http://orcid.org/0000-0000-0000-0000"
-  pubmed: ""
-  github: "raymondtaj"
-  linkedin: "raymond-tao"
-  bluesky: ""
-  twitter: ""
-  facebook: ""
-  youtube: ""
-  zhihu: ""
+  email: "wmaraymond@outlook.com"       # ← 替换为你的真实邮箱
+  linkedin: "https://www.linkedin.com/in/raymond-taosijian/"       # ← 替换为你的 LinkedIn 用户名（如 raymond-taosijian）
+
 
 publication_category:
   books:
