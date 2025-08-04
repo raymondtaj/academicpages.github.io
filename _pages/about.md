@@ -1,51 +1,36 @@
 ---
-layout: home
-title: Raymond Tao
-excerpt: "M.Eng. in ORIE @ Cornell University | Data Analyst | Business Problem Solver"
 permalink: /
+title: "Raymond Tao | M.Eng in ORIE @ Cornell"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-<style>
-a.icon-link {
-  font-size: 1.8rem;
-  margin-right: 10px;
-  text-decoration: none;
-}
-</style>
+Welcome! I'm **Raymond Tao**, a Master of Engineering candidate in Operations Research and Information Engineering at Cornell University, with a Bachelor's degree in Math & Statistics from the University of Michigan.
 
-<img src="/images/profile.jpg" alt="Raymond Tao" style="width:150px;border-radius:50%;margin-bottom:20px;" />
-
-### Hi, I'm Raymond Tao 👋
-
-I’m a data-driven problem solver with a passion for analytics, optimization, and business strategy. Currently pursuing my M.Eng. in Operations Research & Information Engineering at **Cornell University**, with internship experience across e-commerce, consumer goods, and SaaS.
+I’m passionate about data science, optimization, and analytics. On this site, you’ll find my portfolio, projects, publications, and resume.
 
 ---
 
-#### 📌 Contact Me  
-<a class="icon-link" href="mailto:wmaraymond@outlook.com">📧 Email</a>
-<a class="icon-link" href="https://www.linkedin.com/in/raymond-taosijian/" target="_blank">🔗 LinkedIn</a>
+### 📫 Contact Me
+
+<a href="mailto:wmaraymond@outlook.com">
+  <img src="/images/email-icon.png" alt="Email" width="30" style="margin-right: 15px;">
+</a>
+
+<a href="https://www.linkedin.com/in/raymond-taosijian/" target="_blank">
+  <img src="/images/linkedin-icon.png" alt="LinkedIn" width="30">
+</a>
 
 ---
 
-#### 💼 Recent Experiences  
-- **Business Analyst Intern** @ Soul Mate Bridal  
-  Analyzed Instagram metrics, produced weekly insights reports to support digital strategy.
-
-- **Data Analyst** @ Hirebeat  
-  Built and cleaned datasets, designed relational schema for web integration.
-
-- **Business Analyst** @ Kraft Heinz Shanghai  
-  Conducted consumer behavior and competitor benchmarking analysis.
-
-- **Capstone Project**  
-  Developed and evaluated A/B testing strategy for push notifications in a major e-commerce app.
+### 📄 [View My Resume](/files/Raymond_Tao_Resume.pdf)
 
 ---
 
-#### ⚙️ Skills  
-**Languages**: Python, R, SQL  
-**Tools**: Excel, Power BI, Tableau, AWS, Git  
-**Techniques**: A/B Testing, Statistical Modeling, Data Cleaning, Optimization
+Thanks for visiting! Feel free to connect with me on LinkedIn or reach out by email.
+
 
 ---
 
