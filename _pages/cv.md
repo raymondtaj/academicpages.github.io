@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-- **Summer 2025**: Data Analyst, Global AI  
+- **Summer 2025**: Data Science & Machine Learning Intern, Global AI  
   Contributed to building a critical minerals investment advisory system, evaluating global mining companies’ balance sheets, assets, and income to inform fund recommendations for government-backed initiatives.
 
 - **Fall 2024 - Spring 2025**: Business Analyst Intern, Soul Mate Bridal  
