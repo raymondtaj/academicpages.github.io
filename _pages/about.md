@@ -23,7 +23,8 @@ Let’s connect and explore how data can drive smarter decisions!
 ### Feel free to connect with me on LinkedIn or reach out by email
 
 📫 Email: [wmaraymond@outlook.com](mailto:wmaraymond@outlook.com)  
-🔗 LinkedIn: [linkedin.com/in/raymond-taosijian](https://www.linkedin.com/in/raymond-taosijian/)
-📄 Resume:  [Download My Resume](/files/Raymond_Tao_Resume.pdf)
+📎 LinkedIn: [Linkedin.com/in/raymond-taosijian](https://www.linkedin.com/in/raymond-taosijian/)  
+<br>
+📄 Resume: [Download My Resume](/files/Raymond_Tao_Resume.pdf)
 
 
